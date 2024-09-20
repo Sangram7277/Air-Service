@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.Sangram {
+  font-family: "Kalam", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
